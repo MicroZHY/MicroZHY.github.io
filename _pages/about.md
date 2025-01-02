@@ -25,11 +25,11 @@ I'm a Ph.D. candidate at the [Computer Network Information Center (CNIC)](http:/
 
 # Awards
 
-- **National Third Prize (Rank: 1/4)** in the 7th China Parallel Application Challenge on Domestic CPU (CPC), September 2023. [Official Website](http://hpc-cpc.com/index.php?s=/index/aboutcpc/name/aboutcpc)
+- **National Third Prize** in the 7th China Parallel Application Challenge on Domestic CPU (CPC), September 2023. [Official Website](http://hpc-cpc.com/index.php?s=/index/aboutcpc/name/aboutcpc)
 
-- **National First Prize (Rank: 1/4)** in the 11th Parallel Application Challenge (PAC), September 2024. [Official Website](http://www.paratera-edu.org.cn/enterstep/index?id=1)
+- **National First Prize** in the 11th Parallel Application Challenge (PAC), September 2024. [Official Website](http://www.paratera-edu.org.cn/enterstep/index?id=1)
 
-- **National Third Prize (Rank: 1/4)** at ACM-China International Parallel Computing Challenge (IPCC) 2022, October 2022. [Official Website](https://www.doit.com.cn/p/377138.html)
+- **National Third Prize** at ACM-China International Parallel Computing Challenge (IPCC) 2022, October 2022. [Official Website](https://www.doit.com.cn/p/377138.html)
 
 - **National Third Prize** in the 3rd "Pioneer Cup" Computational Application Award, Quantum Chemistry track, December 2022. [Official Website](http://www.paratera-edu.org.cn/news/detail?id=623)
 
