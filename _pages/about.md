@@ -16,25 +16,9 @@ I'm a Ph.D. candidate at the [Computer Network Information Center (CNIC), Chines
  
 # Publications
 
-Below is a list of recent publications:
-
-1. **Mixed-precision block incomplete sparse approximate preconditioner on Tensor core**
-   - Authors: Haoyuan Zhang, WenPeng Ma, Wu Yuan, Jian Zhang, ZhongHua Lu
-   - Publication: CCF Transactions on High Performance Computing, 2024
-
-2. **MIST: Efficient Mixed-Precision Preconditioning Through Iterative Sparse-Triangular Solver Design**
-   - Authors: Haoyuan Zhang, Yidong Chen, Wenpeng Ma, Wu Yuan, Jian Zhang, Zhonghua Lu
-   - Conference: The 42nd IEEE International Conference on Computer Design, 2024
-
-3. **MIXQ: Taming Dynamic Outliers in Mixed-Precision Quantization by Online Prediction**
-   - Authors: Yidong Chen, Chen Zhang, Rongchao Dong, Haoyuan Zhang, Yonghua Zhang, Zhonghua Lu, Jidong Zhai
-   - Conference: The International Conference for High Performance Computing, Networking, Storage, and Analysis, 2024
-
-4. **PASCI: A Scalable Framework for Heterogeneous Parallel Calculation of Dynamical Electron Correlation**
-   - Authors: Runfeng Jin, Wenhao Liang, Haoyuan Zhang, Yinxuan Song, Zhen Luo, Haibo Ma, Yingjin Ma, Zhong Jin
-   - Conference: The 53rd International Conference on Parallel Processing, 2024
-
-5. **High-Performance 3D Convolution on the Latest Generation Sunway Processor**
-   - Authors: Jialin Li, Zhichen Feng, Yaqian Gao, Shaobo Tian, Haoyuan Zhang, Huang Ye, Jian Zhang
-   - Conference: The 53rd International Conference on Parallel Processing, 2024
+- [CCF THPC] **Haoyuan Zhang**, WenPeng Ma, Wu Yuan, Jian Zhang, ZhongHua Lu. Mixed-precision block incomplete sparse approximate preconditioner on Tensor core. [**Paper**](https://example.com/paper-link)
+- [ICCD'24] **Haoyuan Zhang**, Yidong Chen, Wenpeng Ma, Wu Yuan, Jian Zhang, Zhonghua Lu. MIST: Efficient Mixed-Precision Preconditioning Through Iterative Sparse-Triangular Solver Design. [**Paper**](https://example.com/paper-link)
+- [SC'24] **Yidong Chen**, Chen Zhang, Rongchao Dong, **Haoyuan Zhang**, Yonghua Zhang, Zhonghua Lu, Jidong Zhai. MIXQ: Taming Dynamic Outliers in Mixed-Precision Quantization by Online Prediction. [**Paper**](https://example.com/paper-link)
+- [ICPP'24] Runfeng Jin, Wenhao Liang, **Haoyuan Zhang**, Yinxuan Song, Zhen Luo, Haibo Ma, Yingjin Ma, Zhong Jin. PASCI: A Scalable Framework for Heterogeneous Parallel Calculation of Dynamical Electron Correlation. [**Paper**](https://example.com/paper-link)
+- [ICPP'24] Jialin Li, Zhichen Feng, Yaqian Gao, Shaobo Tian, **Haoyuan Zhang**, Huang Ye, Jian Zhang. High-Performance 3D Convolution on the Latest Generation Sunway Processor. [**Paper**](https://example.com/paper-link)
  
