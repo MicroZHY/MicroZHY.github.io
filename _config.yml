@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "HPC"
   location         : "Beijing, China"
-  employer         : "Computer Network Information Center"
+  employer         : # "Computer Network Information Center"
   uri              : # URL
   email            : "zhanghaoyuan@cnic.cn" 
 
@@ -72,7 +72,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "Micro"
+  zhihu            : "micro-10-53"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
