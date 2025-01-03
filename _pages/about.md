@@ -35,7 +35,7 @@ I'm a Ph.D. candidate at the [Computer Network Information Center (CNIC)](http:/
 
 - **Third Prize in the Finals** at the ACM-China International Parallel Computing Challenge (IPCC) 2022, October 2022. [Website](https://mp.weixin.qq.com/s/5STOFRnqFGp7xwu7WRSgXg)
 
-- **Third Prize in the Finals** of the 3rd "Pioneer Cup" Computational Application Award, Quantum Chemistry track, December 2022. [Website](https://cas-pra.sugon.com/sugon/historyReview.html)
+- **Third Prize in the Finals** of the 3rd Priority Research Application (PRA), Quantum Chemistry track, December 2022. [Website](https://cas-pra.sugon.com/sugon/historyReview.html)
 
  
  
