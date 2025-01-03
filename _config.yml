@@ -22,9 +22,9 @@ repository               : "MicroZHY/MicroZHY.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Haoyuan Zhang（张浩源）"
+  name             : "Haoyuan Zhang 张浩源"
   pronouns         : # example: "she/her"  
-  bio              : "We ascend to the summit not to be seen, but to see others."
+  bio              : "HPC"
   location         : "Beijing, China"
   employer         : "Computer Network Information Center"
   uri              : # URL
@@ -37,7 +37,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     :  "https://www.researchgate.net/profile/Haoyuan-Zhang-25"
   scopus           : # URL
 
   # Repositories and software development
@@ -72,7 +72,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "Micro"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
