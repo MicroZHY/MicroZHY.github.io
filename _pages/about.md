@@ -16,15 +16,19 @@ I'm a Ph.D. candidate at the [Computer Network Information Center (CNIC)](http:/
  
 # Selected Publications
 
-- **[CCF THPC]** **Haoyuan Zhang**, WenPeng Ma, Wu Yuan, Jian Zhang, ZhongHua Lu. Mixed-precision block incomplete sparse approximate preconditioner on Tensor core. [**Paper**](https://link.springer.com/article/10.1007/s42514-023-00165-9)
   
 - **[ICCD'24]** **Haoyuan Zhang**, Yidong Chen, Wenpeng Ma, Wu Yuan, Jian Zhang, Zhonghua Lu. MIST: Efficient Mixed-Precision Preconditioning Through Iterative Sparse-Triangular Solver Design. [**Paper**](https://www.iccd-conf.com/agenda.html)
+
+- **[CCF THPC'24]** **Haoyuan Zhang**, WenPeng Ma, Wu Yuan, Jian Zhang, ZhongHua Lu. Mixed-precision block incomplete sparse approximate preconditioner on Tensor core. [**Paper**](https://link.springer.com/article/10.1007/s42514-023-00165-9)
+
+- **[Frontiers of Data & Computing'24]** **Haoyuan ZHANG**, Wenpeng MA, Wu YUAN, Jian ZHANG, Zhonghua LU. Implementation of CCFD-KSSolver Component for GPU Architecture. [**Paper**](file:///C:/Users/Micro/Downloads/%E9%9D%A2%E5%90%91GPU%E6%9E%B6%E6%9E%84%E7%9A%84CCFD-KSSolver%E7%BB%84%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%92%8C%E5%AE%9E%E7%8E%B0-1.pdf)
   
 - **[SC'24]** Yidong Chen, Chen Zhang, Rongchao Dong, **Haoyuan Zhang**, Yonghua Zhang, Zhonghua Lu, Jidong Zhai. MIXQ: Taming Dynamic Outliers in Mixed-Precision Quantization by Online Prediction. [**Paper**](https://dl.acm.org/doi/pdf/10.1109/SC41406.2024.00080)
   
 - **[ICPP'24]** Runfeng Jin, Wenhao Liang, **Haoyuan Zhang**, Yinxuan Song, Zhen Luo, Haibo Ma, Yingjin Ma, Zhong Jin. PASCI: A Scalable Framework for Heterogeneous Parallel Calculation of Dynamical Electron Correlation. [**Paper**](https://dl.acm.org/doi/pdf/10.1145/3673038.3673098)
   
 - **[ICPP'24]** Jialin Li, Zhichen Feng, Yaqian Gao, Shaobo Tian, **Haoyuan Zhang**, Huang Ye, Jian Zhang. High-Performance 3D Convolution on the Latest Generation Sunway Processor. [**Paper**](https://dl.acm.org/doi/pdf/10.1145/3673038.3673093)
+
 
 
 # Awards
