@@ -19,7 +19,7 @@ I'm a Ph.D. candidate at the [Computer Network Information Center (CNIC)](http:/
   
 - **[ICCD'24]** **Haoyuan Zhang**, Yidong Chen, Wenpeng Ma, Wu Yuan, Jian Zhang, Zhonghua Lu. MIST: Efficient Mixed-Precision Preconditioning Through Iterative Sparse-Triangular Solver Design. [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10818195)
 
-- **[CCF THPC'24]** **Haoyuan Zhang**, WenPeng Ma, Wu Yuan, Jian Zhang, ZhongHua Lu. Mixed-precision block incomplete sparse approximate preconditioner on Tensor core. [**Paper**](https://link.springer.com/article/10.1007/s42514-023-00165-9)
+- **[CCF THPC'24]** **Haoyuan Zhang**, WenPeng Ma, Wu Yuan, Jian Zhang, ZhongHua Lu. Mixed-precision block incomplete sparse approximate preconditioner on Tensor core. [**Paper**](https://www.researchgate.net/publication/373920365_Mixed-precision_block_incomplete_sparse_approximate_preconditioner_on_Tensor_core)
 
 - **[Frontiers of Data & Computing'24]** **Haoyuan Zhang**, Wenpeng Ma, Wu Yuan, Jian Zhang, Zhonghua Lu. Implementation of CCFD-KSSolver Component for GPU Architecture. [**Paper**](http://www.jfdc.cnic.cn/CN/10.11871/jfdc.issn.2096-742X.2024.01.007)
   
