@@ -17,7 +17,7 @@ I'm a Ph.D. candidate at the [Computer Network Information Center (CNIC)](http:/
 # Selected Publications
 
   
-- **[ICCD'24]** **Haoyuan Zhang**, Yidong Chen, Wenpeng Ma, Wu Yuan, Jian Zhang, Zhonghua Lu. MIST: Efficient Mixed-Precision Preconditioning Through Iterative Sparse-Triangular Solver Design. [**Paper**](https://www.iccd-conf.com/agenda.html)
+- **[ICCD'24]** **Haoyuan Zhang**, Yidong Chen, Wenpeng Ma, Wu Yuan, Jian Zhang, Zhonghua Lu. MIST: Efficient Mixed-Precision Preconditioning Through Iterative Sparse-Triangular Solver Design. [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10818195)
 
 - **[CCF THPC'24]** **Haoyuan Zhang**, WenPeng Ma, Wu Yuan, Jian Zhang, ZhongHua Lu. Mixed-precision block incomplete sparse approximate preconditioner on Tensor core. [**Paper**](https://link.springer.com/article/10.1007/s42514-023-00165-9)
 
