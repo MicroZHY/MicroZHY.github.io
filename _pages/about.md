@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a Ph.D. candidate at the [Computer Network Information Center (CNIC)](http://www.cnic.cas.cn/), Chinese Academy of Sciences. I received my Bachelor's degree in Engineering Mechanics from Hohai University in 2019. My research interests lie in high-performance numerical linear algebra, with a particular focus on heterogeneous computing, parallel and distributed algorithms, and sparse linear solvers for tackling large-scale scientific and engineering problems. You can find my [[Resume]](../files/张浩源 高性能计算 26届 博士.pdf) here. <span style="color: red;">I am currently seeking job opportunities. If you know of any potential openings, please feel free to contact me.</span> 
+I'm a Ph.D. candidate at the [Computer Network Information Center (CNIC)](http://www.cnic.cas.cn/), Chinese Academy of Sciences. I received my Bachelor's degree in Engineering Mechanics from Hohai University in 2019. My research interests lie in high-performance numerical linear algebra, with a particular focus on heterogeneous computing, parallel and distributed algorithms, and sparse linear solvers for tackling large-scale scientific and engineering problems. You can find my [[Resume]](../files/zhanghaoyuan.pdf) here. <span style="color: red;">I am currently seeking job opportunities. If you know of any potential openings, please feel free to contact me.</span> 
 
 
 [Github](https://github.com/MicroZHY) / [Wechat](../images/wechat.jpg) / [Zhihu](https://www.zhihu.com/people/micro-10-53)
