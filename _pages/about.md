@@ -17,7 +17,7 @@ I’m a Ph.D. candidate at the [Computer Network Information Center (CNIC)](http
 # Selected Publications
 
 
-- **[ICCD'25]** **Haoyuan Zhang**, Yaqian Gao, Xinxin Zhang, Jialin Li, Runfeng Jin, Yidong Chen, Feng Zhang, Wu Yuan, Wenpeng Ma, Shan Liang, Jian Zhang, Zhonghua Lu. FlashMP: Fast Discrete Transform-Based Solver for Preconditioning Maxwell's Equations on GPUs.
+- **[ICCD'25]** **Haoyuan Zhang**, Yaqian Gao, Xinxin Zhang, Jialin Li, Runfeng Jin, Yidong Chen, Feng Zhang, Wu Yuan, Wenpeng Ma, Shan Liang, Jian Zhang, Zhonghua Lu. FlashMP: Fast Discrete Transform-Based Solver for Preconditioning Maxwell's Equations on GPUs. [**Paper**](https://arxiv.org/abs/2508.07193)
   
 - **[ICCD'24]** **Haoyuan Zhang**, Yidong Chen, Wenpeng Ma, Wu Yuan, Jian Zhang, Zhonghua Lu. MIST: Efficient Mixed-Precision Preconditioning Through Iterative Sparse-Triangular Solver Design. [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10818195)
 
