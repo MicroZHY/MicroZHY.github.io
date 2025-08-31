@@ -21,7 +21,7 @@ repository               : "MicroZHY/MicroZHY.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../images/zhy.png"
+  avatar           : "../images/zhanghaoyuan.jpg"
   name             : "Haoyuan Zhang 张浩源"
   pronouns         : # example: "she/her"  
   bio              : "HPC"
