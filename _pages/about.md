@@ -21,7 +21,7 @@ I’m a Ph.D. candidate at the [Computer Network Information Center (CNIC)](http
 
 - **[EuroSys'26]** Junlin Wei, Jinrong Jiang, Wu Wang, Chen Li, Yehong Zhang, Yue Yu, Lian Zhao, Xiang Han, Zhenjia Li, Feng Zhang, **Haoyuan Zhang**, Yidi Bai, Maoxue Yu, Kai Xu, Hailong Liu, Xuebin Chi. swKokkos: An Athread Backend for Enhanced Kokkos with the Sunway Heterogeneous Architecture. [**Paper**]()
 
-- **[ICCD'25]** **Haoyuan Zhang**, Yaqian Gao, Xinxin Zhang, Jialin Li, Runfeng Jin, Yidong Chen, Feng Zhang, Wu Yuan, Wenpeng Ma, Shan Liang, Jian Zhang, Zhonghua Lu. FlashMP: Fast Discrete Transform-Based Solver for Preconditioning Maxwell's Equations on GPUs. [**Paper**](https://arxiv.org/abs/2508.07193)
+- **[ICCD'25]** **Haoyuan Zhang**, Yaqian Gao, Xinxin Zhang, Jialin Li, Runfeng Jin, Yidong Chen, Feng Zhang, Wu Yuan, Wenpeng Ma, Shan Liang, Jian Zhang, Zhonghua Lu. FlashMP: Fast Discrete Transform-Based Solver for Preconditioning Maxwell's Equations on GPUs. [**Paper**](https://ieeexplore.ieee.org/document/11311035)
 
 - **[SC'24]** Yidong Chen, Chen Zhang, Rongchao Dong, **Haoyuan Zhang**, Yonghua Zhang, Zhonghua Lu, Jidong Zhai. MIXQ: Taming Dynamic Outliers in Mixed-Precision Quantization by Online Prediction. [**Paper**](https://dl.acm.org/doi/pdf/10.1109/SC41406.2024.00080)
 
