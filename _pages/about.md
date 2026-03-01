@@ -8,7 +8,14 @@ redirect_from:
 ---
 
 
-I’m a Ph.D. candidate at the [Computer Network Information Center (CNIC)](http://www.cnic.cas.cn/), Chinese Academy of Sciences, advised by Professor [Zhonghua Lu](https://www.cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202107/t20210702_6125799.html). I earned my Bachelor’s degree in Engineering Mechanics from Hohai University in 2019. I focus my research on high-performance numerical linear algebra, with particular emphasis on heterogeneous computing, parallel and distributed algorithms, and sparse linear solvers to address large-scale scientific and engineering challenges. You can find my [[Resume]](../files/zhanghaoyuan.pdf) here. 
+
+I obtained my Ph.D. from the [Computer Network Information Center (CNIC)](http://www.cnic.cas.cn/), Chinese Academy of Sciences, under the supervision of Professor [Zhonghua Lu](https://www.cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202107/t20210702_6125799.html).  
+
+I earned my Bachelor’s degree in Engineering Mechanics from Hohai University in 2019.  
+
+I am currently working on inference optimization for large language models. During my Ph.D., my research focused on high-performance numerical linear algebra, with particular emphasis on heterogeneous computing, parallel and distributed algorithms, and sparse linear solvers for large-scale scientific and engineering problems.  
+
+You can find my [[Resume]](../files/zhanghaoyuan.pdf) here.
 
 <!-- <span style="color: red;">As I am currently exploring job opportunities, please feel free to contact me if you know of any potential openings.</span> -->
 
@@ -47,5 +54,9 @@ I’m a Ph.D. candidate at the [Computer Network Information Center (CNIC)](http
 
 - **Third Prize in the Finals** of the 3rd Priority Research Application (PRA), Quantum Chemistry track, December 2022. [Website](https://cas-pra.sugon.com/sugon/historyReview.html)
 
+
+# Work Experience
+
+- **June 2025 — September 2025** &nbsp; [Meituan](https://www.meituan.com) - Computing and Intelligent Platform Department - Model Compression and Acceleration Team
  
  
