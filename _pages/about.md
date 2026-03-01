@@ -9,13 +9,7 @@ redirect_from:
 
 
 
-I obtained my Ph.D. from the [Computer Network Information Center (CNIC)](http://www.cnic.cas.cn/), Chinese Academy of Sciences, under the supervision of Professor [Zhonghua Lu](https://www.cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202107/t20210702_6125799.html).  
-
-I earned my Bachelor’s degree in Engineering Mechanics from Hohai University in 2019.  
-
-I am currently working on inference optimization for large language models. During my Ph.D., my research focused on high-performance numerical linear algebra, with particular emphasis on heterogeneous computing, parallel and distributed algorithms, and sparse linear solvers for large-scale scientific and engineering problems.  
-
-You can find my [[Resume]](../files/zhanghaoyuan.pdf) here.
+I obtained my Ph.D. from the [Computer Network Information Center (CNIC)](http://www.cnic.cas.cn/), Chinese Academy of Sciences, under the supervision of Professor [Zhonghua Lu](https://www.cnic.cas.cn/sourcedb_cnic_cas/zw/rcdw/yjy/202107/t20210702_6125799.html). I earned my Bachelor’s degree in Engineering Mechanics from Hohai University in 2019. I am currently working on inference optimization for large language models. During my Ph.D., my research focused on high-performance numerical linear algebra, with particular emphasis on heterogeneous computing, parallel and distributed algorithms, and sparse linear solvers for large-scale scientific and engineering problems. You can find my [[Resume]](../files/zhanghaoyuan.pdf) here.
 
 <!-- <span style="color: red;">As I am currently exploring job opportunities, please feel free to contact me if you know of any potential openings.</span> -->
 
