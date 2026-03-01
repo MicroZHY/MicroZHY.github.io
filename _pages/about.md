@@ -57,6 +57,6 @@ You can find my [[Resume]](../files/zhanghaoyuan.pdf) here.
 
 # Work Experience
 
-- **June 2025 — September 2025** &nbsp; [Meituan](https://www.meituan.com) - Computing and Intelligent Platform Department - Model Compression and Acceleration Team
+- **June 2025 — September 2025** &nbsp; [Meituan](https://www.meituan.com/en-US/about-us) - Computing and Intelligent Platform Department - Model Compression and Acceleration Team
  
  
