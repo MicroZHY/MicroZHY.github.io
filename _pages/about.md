@@ -20,6 +20,8 @@ I obtained my Ph.D. from the [Computer Network Information Center (CNIC)](http:/
 # Selected Publications
 
 
+- **[ICS'26]** Xinxin Zhang, **Haoyuan Zhang**, Xiazhen Liu, Jialin Li, RunFeng Jin, Jian Zhang, Wu Yuan, Shan Liang, Zhonghua Lu. WindStencil: Unleashing GPU Potential for High-Order Stencil Computation in High-Performance Inviscid CFD Simulations. [**Paper**]()
+
 - **[EuroSys'26]** Junlin Wei, Jinrong Jiang, Wu Wang, Chen Li, Yehong Zhang, Yue Yu, Lian Zhao, Xiang Han, Zhenjia Li, Feng Zhang, **Haoyuan Zhang**, Yidi Bai, Maoxue Yu, Kai Xu, Hailong Liu, Xuebin Chi. swKokkos: An Athread Backend for Enhanced Kokkos with the Sunway Heterogeneous Architecture. [**Paper**]()
 
 - **[ICCD'25]** **Haoyuan Zhang**, Yaqian Gao, Xinxin Zhang, Jialin Li, Runfeng Jin, Yidong Chen, Feng Zhang, Wu Yuan, Wenpeng Ma, Shan Liang, Jian Zhang, Zhonghua Lu. FlashMP: Fast Discrete Transform-Based Solver for Preconditioning Maxwell's Equations on GPUs. [**Paper**](https://ieeexplore.ieee.org/document/11311035)
