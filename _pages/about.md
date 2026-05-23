@@ -16,7 +16,9 @@ I obtained my Ph.D. from the [Computer Network Information Center (CNIC)](http:/
 <!-- <span style="color: red;">As I am currently exploring job opportunities, please feel free to contact me if you know of any potential openings.</span> -->
 
 
-[Github](https://github.com/MicroZHY) / [Wechat](../images/wechat.jpg) / [Zhihu](https://www.zhihu.com/people/micro-10-53)
+[Github](https://github.com/MicroZHY) / [Wechat](../images/wechat.jpg) 
+
+<!-- / [Zhihu](https://www.zhihu.com/people/micro-10-53)-->
  
  
 # Selected Publications
