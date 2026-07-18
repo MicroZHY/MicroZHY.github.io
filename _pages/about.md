@@ -22,6 +22,7 @@ I obtained my Ph.D. from the [Computer Network Information Center (CNIC)](http:/
  
 # Selected Publications
 
+- **[SC'26]** Zifan Yang, **Haoyuan Zhang**, Jialin Li, Wu Yuan, Xiazhen Liu, Jian Zhang, Jianyuan Xiao, Shan Liang. TokaGLINT: A Scalable GPU-tailored Implicit Solver for Full 3D Tokamak Electromagnetic Simulations. [**Paper**]( )
 
 - **[ICS'26]** Xinxin Zhang, **Haoyuan Zhang**, Xiazhen Liu, Jialin Li, RunFeng Jin, Jian Zhang, Wu Yuan, Shan Liang, Zhonghua Lu. WindStencil: Unleashing GPU Potential for High-Order Stencil Computation in High-Performance Inviscid CFD Simulations. [**Paper**](https://dl.acm.org/doi/epdf/10.1145/3797905.3807849)
 
